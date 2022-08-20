@@ -1,7 +1,7 @@
 # Rafael-Alexandre
  <div>
   <a href="https://github.com/Rafalexandre-code">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalherie&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rafalexandre-code&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalexandre-code&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
