@@ -1,8 +1,8 @@
 # Rafael-Alexandre
  <div>
-  <a href="https://github.com/LucasCavalherie">
+  <a href="https://github.com/Rafalexandre-code">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LucasCavalherie&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCavalherie&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafalexandre-code&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -18,8 +18,7 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/lucascavalherie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-cavalherie/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucascavalherie01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rafael.alexandre.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelalexandre9816@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
